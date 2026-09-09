@@ -13,7 +13,6 @@ The primary pillar of the CIA that is at risk is its integrity.
 
 ## My Analyst Role Takeaway
 
-[One to two sentences about what being a Tier 1 analyst means in practice, based on the onboarding brief.]
 Being a tier 1 analyst is being the eyes of the security operation center. This means the tier 1 analyst is the first layer of the investigation and is the one that documents and escalates any findings.
 ---
 
